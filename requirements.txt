@@ -1,0 +1,5 @@
+streamlit
+agno>=2.2.10
+firecrawl
+python-dotenv==1.2.4
+openai==3.57.0
